@@ -1,0 +1,28 @@
+
+body{
+  background-color:rgba(25, 195, 246, 0.24) !important; 
+}
+.title ,.innerline{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: rgb(13, 0, 255);
+  text-align: center !important;
+}
+#container{
+ background-color: none !important;
+ border: 5px solid rgba(47, 189, 255, 0.478);
+ 
+ margin: auto; ;
+margin-top: 15vh;
+ height: 50vh !important;
+    width: 50vw !important;
+    box-shadow: 2px 5px 50px 20px rgba(0, 217, 250, 0.777)
+               
+}
+img{
+    
+    height: 100% !important;
+    width: 100% !important;
+   
+}
